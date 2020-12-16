@@ -1,12 +1,12 @@
 {
-  "name": "radiortl",
+  "name": "radio",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
-  "author": "",
+  "author": "Beafowl",
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "github:discordjs/opus",
